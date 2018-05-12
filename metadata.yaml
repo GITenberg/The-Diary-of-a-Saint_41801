@@ -1,0 +1,31 @@
+_repo: The-Diary-of-a-Saint_41801
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41801-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Bates, Arlo
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '2784'
+    url: http://www.gutenberg.org/2009/agents/2784
+    wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
+description: ''
+gutenberg_issued: '2013-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Diary fiction'
+title: The Diary of a Saint
+url: http://www.gutenberg.org/ebooks/41801
